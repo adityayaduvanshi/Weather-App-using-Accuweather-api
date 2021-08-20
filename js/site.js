@@ -27,7 +27,7 @@ function loadData(system) {
 
   var inputCity = $("#inputCity").val();
 
-  var accuweatherApiKey = "SNG0aAK2XhAAExLmjMA7ofwJBHCUw42Q"; // Accuweather api key
+  var accuweatherApiKey = "2wBiiImG1kGSA8AB3ON1n2sKK8M7lCac"; // Accuweather api key
   var flickrApiKey = "8df7b25e698caeac3e6711c1c46140b1"; // Flickr api key
 
   var locationResourceURL =
