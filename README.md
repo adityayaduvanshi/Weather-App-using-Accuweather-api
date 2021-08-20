@@ -1,7 +1,7 @@
 
 
 # Weather App
-Get 5 day forecast.
+Weather app with 5 days forecast using Accuweather Api.
 
 
 
