@@ -14,10 +14,10 @@ Description: It is a weather app as a JavaScript project which gives user to see
 ## Link to website
    Live Demo - https://weatherapp-addy.netlify.app/
 
-## Screenshot 
-![screenshot](screenshot.png)
-
-
+## Screenshots
+![screenshot](screenshot1.PNG)
+![screenshot](screenshot2.PNG)
+![screenshot](screenshot3.PNG)
 
 
 
