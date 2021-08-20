@@ -6,7 +6,7 @@ Weather app with 5 days forecast using Accuweather Api.
 
 
 ## About the project
-Description: It is a weather app as a JavaScript project which gives user to see today's weather conditon,temperature,time,date etc.I have used Accuweather API in this project.This project is also responsive page.
+Description: It is a weather app as a JavaScript project which gives user to see today's weather conditon,temperature,time,date etc.I have used Accuweather API in this project.This project is also responsive page.Get 5 days forecast by just clicking on bottom button.
 
 
 
