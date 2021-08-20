@@ -213,7 +213,7 @@ a:hover {
 .footer {
   background-color: transparent;
   position: absolute;
-  bottom: 0rem;
+  bottom: -3rem;
   left: 2rem;
 }
 .fa.fa-code {
